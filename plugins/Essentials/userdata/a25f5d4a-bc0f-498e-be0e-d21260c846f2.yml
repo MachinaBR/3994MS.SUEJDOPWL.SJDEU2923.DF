@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.190.185.47
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744592897416
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744599109783
+  login: 1744597560679
+money: '0'
+last-account-name: Rohzer47
+logoutlocation:
+  world: 96f14ea7-b431-4a94-8c17-79255f4b31e5
+  world-name: villa
+  x: 321.5208340532959
+  y: 41.662114813778025
+  z: 390.73886420380313
+  yaw: 152.0157470703125
+  pitch: 35.99992752075195
+lastlocation:
+  world: 5f2c39f5-0042-40eb-bac0-6144f9882b40
+  world-name: world
+  x: -10.254665442319755
+  y: -48.092357202462026
+  z: -4.262907868495705
+  yaw: 54.94287109375
+  pitch: 53.55448532104492
